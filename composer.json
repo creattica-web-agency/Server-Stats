@@ -1,0 +1,14 @@
+{
+    "name": "creattica-web-agency/server-stats",
+    "description": "Monitor utility for web servers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "creattico",
+            "email": "cloud@creattica.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
