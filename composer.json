@@ -9,13 +9,13 @@
             "email": "cloud@creattica.it"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.0"
     },
+    "minimum-stability": "stable",
     "autoload": {
-        "psr-0": {
-            "ServerStats": "src/"
+        "psr-4": {
+            "ServerStats\\PrintSomething\\": "src/"
         }
     }
 }
